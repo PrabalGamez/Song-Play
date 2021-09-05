@@ -1,0 +1,27 @@
+.black{
+    background-color: black;
+    color: aliceblue;
+}
+.head{
+    background-color: white;
+    color: black;
+    text-align: center;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+}
+.Song{
+    background-color: white;
+    border: black 20px solid;
+    width: 50%;
+    color: black;
+    padding-bottom: 10;
+    border-radius: 30px;
+}
+
+canvas{
+    border: 20px solid white;
+    border-radius: 50px;
+    margin-top: 50px;
+}
